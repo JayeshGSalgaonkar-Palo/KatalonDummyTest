@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite 1,Firefox 58.0,Test CMD,2018-03-23 10:23:01,2018-03-23 10:23:11,9.206s,PASSED
+,,,,,,
+Test Cases/loginGmail,Firefox 58.0,,2018-03-23 10:23:02,2018-03-23 10:23:10,8.881s,PASSED
+openBrowser,Firefox 58.0,,2018-03-23 10:23:02,2018-03-23 10:23:06,4.592s,PASSED
+navigateToUrl,Firefox 58.0,,2018-03-23 10:23:06,2018-03-23 10:23:07,1.017s,PASSED
+click,Firefox 58.0,,2018-03-23 10:23:07,2018-03-23 10:23:10,2.139s,PASSED
+setText,Firefox 58.0,,2018-03-23 10:23:10,2018-03-23 10:23:10,0.119s,PASSED
+click,Firefox 58.0,,2018-03-23 10:23:10,2018-03-23 10:23:10,0.352s,PASSED
+closeBrowser,Firefox 58.0,,2018-03-23 10:23:10,2018-03-23 10:23:10,0.416s,PASSED

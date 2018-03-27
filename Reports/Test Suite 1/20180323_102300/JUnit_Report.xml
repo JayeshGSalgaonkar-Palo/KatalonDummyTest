@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite 1" time="9" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite 1" tests="1" failures="0" errors="0" time="9" timestamp="2018-03-23 10:23:01" hostname="Jayesh Salgaonkar - DESKTOP-MBF6RPR" id="Test Suites/Test Suite 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Jayesh Salgaonkar\\Katalon Studio\\Project 1 - Test\\Reports\\Test Suite 1\\20180323_102300"/>
+         <property name="logFiles" value="C:\\Users\\Jayesh Salgaonkar\\Katalon Studio\\Project 1 - Test\\Reports\\Test Suite 1\\20180323_102300\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Jayesh Salgaonkar - DESKTOP-MBF6RPR"/>
+         <property name="os" value="Windows 10 32bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 58.0"/>
+         <property name="hostAddress" value="172.16.0.97"/>
+         <property name="sessionId" value="1346ec9f-6c4c-4fab-bf14-6d01526a7c8f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/loginGmail" classname="Test Cases/loginGmail" status="PASSED">
+         <system-out><![CDATA[2018-03-23 10:23:02 - [TEST_CASE][PASSED] - Test Cases/loginGmail: Test Cases/loginGmail
+
+2018-03-23 10:23:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-03-23 10:23:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-23 10:23:06 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.google.com.sg/?gws_rd=ssl' successfully
+
+2018-03-23 10:23:07 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com.sg/?gws_rd=ssl' successfully
+
+2018-03-23 10:23:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/loginGmail/Page_Google/a_Gmail' is clicked on
+
+2018-03-23 10:23:10 - [MESSAGE][PASSED] - Object: 'Object Repository/loginGmail/Page_Google/a_Gmail' is clicked on
+
+2018-03-23 10:23:10 - [TEST_STEP][PASSED] - setText: Text 'test' is set on object 'Object Repository/loginGmail/Page_Gmail/input_identifier'
+
+2018-03-23 10:23:10 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/loginGmail/Page_Gmail/input_identifier'
+
+2018-03-23 10:23:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/loginGmail/Page_Gmail/content_Next' is clicked on
+
+2018-03-23 10:23:10 - [MESSAGE][PASSED] - Object: 'Object Repository/loginGmail/Page_Gmail/content_Next' is clicked on
+
+2018-03-23 10:23:10 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-03-23 10:23:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-23 10:23:01 - [TEST_SUITE][PASSED] - Test Suite 1: Test Cases/loginGmail]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

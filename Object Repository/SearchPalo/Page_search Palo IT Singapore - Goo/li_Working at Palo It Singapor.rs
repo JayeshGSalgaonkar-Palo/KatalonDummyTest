@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Working at Palo It Singapor</name>
+   <tag></tag>
+   <elementGuidId>401c0e65-8c60-48b9-8335-d97a7432ee90</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ads-ad</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hveid</name>
+      <type>Main</type>
+      <value>35</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at Palo It Singapore Pte. Ltd. company profile and information‎Adwww.jobstreet.com.sg/‎Top Companies Are Hiring Now. Find &amp; Apply Jobs Quickly &amp; Easily.Most Quality Employers · Most Quality Jobs · No.1 Job Site in SG · Most Trusted(function(){var f=function(){this.g=&quot;&quot;;this.o=d};f.prototype.s=!0;var g=/^(?:(?:https?|mailto|ftp):|[^:/?#]*(?:[/?#]|$))/i,d={},h=function(b){var c=new f;c.g=b;return c};h(&quot;about:blank&quot;);var k=function(b,c){if(c instanceof f)var a=c;else a=c,a instanceof f||(a=a.s?a.g:String(a),g.test(a)||(a=&quot;about:invalid#zClosurez&quot;),a=h(a));b.href=a instanceof f&amp;&amp;a.constructor===f&amp;&amp;a.o===d?a.g:&quot;type_error:SafeUrl&quot;};google.f.LmvwCb=function(b){if(!b)return google.ml(Error(&quot;a&quot;),!1),!0;var c=b.getAttribute(&quot;data-arwt&quot;);if(c){var a=b?(a=b.getAttribute(&quot;data-ved&quot;))?&quot;&amp;ved=&quot;+a:&quot;&quot;:&quot;&quot;;b.href=c+a}return!0};google.f.DfwaCb=function(b){if(!b)return google.ml(Error(&quot;b&quot;),!1),!0;if(b.hasAttribute(&quot;data-sbv2&quot;)){b.hasAttribute(&quot;data-ohref&quot;)?k(b,b.getAttribute(&quot;data-ohref&quot;)):b.setAttribute(&quot;data-ohref&quot;,b.href);var c=b.href,a=/[?&amp;]adurl=([^&amp;]+)/.exec(c);if(a&amp;&amp;/[?&amp;]ae=1(&amp;|$)/.test(c))try{var e={h:c+&quot;&amp;act=1&quot;,l:decodeURIComponent(a[1])}}catch(l){google.ml(Error(&quot;c`&quot;+c),!1),e=null}else e=null;e&amp;&amp;(navigator.sendBeacon&amp;&amp;navigator.sendBeacon(e.h+&quot;&amp;ri=1&quot;)?k(b,e.l):b.href+=&quot;&amp;ri=2&quot;)}return!0};google.f.bez1fd=google.f.LmvwCb;}).call(this);Search JobsLogin - JobStreet SGSign Up - JobStreet SGJobs By Company NameWe have companies looking to hireSubmit your resume &amp; apply today!</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tads&quot;)/ol[1]/li[@class=&quot;ads-ad&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
